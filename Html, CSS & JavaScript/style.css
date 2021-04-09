@@ -1,0 +1,52 @@
+#heading {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.vertical {
+    border-left: 3px solid green;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    margin-top: 26px;
+    margin-right: 30px;
+    top: 0;
+}
+
+#enrolled-student {
+    text-align: center;
+    color: black;
+    margin-bottom: 40px;
+}
+
+#footer {
+    text-align: center;
+    color: white;
+    background-color: green;
+    margin-bottom: 0px;
+    height: max-content;
+}
+
+#enroll-button {
+    background-color: blue;
+    color: white;
+    margin-right: 16px;
+    margin-left: 28px
+}
+
+#clear {
+    background-color: red;
+    color: white;
+}
+
+.scroll {
+    /* margin: 4px, 4px;
+    padding: 4px;
+    background-color: green;
+    width: 500px;*/
+    height: 380px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: justify;
+}
